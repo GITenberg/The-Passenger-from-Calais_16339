@@ -1,0 +1,28 @@
+_repo: The-Passenger-from-Calais_16339
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Griffiths, Arthur
+    alias: Griffiths, Arthur George Frederick
+    birthdate: 1838
+    deathdate: 1908
+    gutenberg_agent_id: '3987'
+    url: http://www.gutenberg.org/2009/agents/3987
+description: ''
+gutenberg_bookshelf: Detective Fiction
+gutenberg_issued: '2005-07-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16339'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PR'
+title: The Passenger from Calais
+url: http://www.gutenberg.org/ebooks/16339
